@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1706368471 source:g:\old desktop\programing\new s\uni\loginfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
