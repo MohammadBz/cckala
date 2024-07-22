@@ -1,0 +1,1 @@
+active,shotgun,1,4,it kills you with one bullet,
